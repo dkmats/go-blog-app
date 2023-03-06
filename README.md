@@ -5,5 +5,8 @@ This is a simple blog site sample.
 $ git clone https://github.com/dkmats/blog-app-sample.git
 $ cd ./blog-app-sample
 $ go mod tidy
-$ go build .
+```
+## Execution
+```bash
+$ go run .
 ```
