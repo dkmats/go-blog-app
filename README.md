@@ -28,11 +28,14 @@ $ ./go-blog-app
 ```
 
 ## Screenshots
-Sample root page
-![Test Image 1](image/home.png)
+Sample blog index page
+![Index page image](image/home.png)
 
-Sample writing page
-![Test Image 2](image/write.png)
+Sample blog reading page
+![Reading page image](image/read.png)
+
+Sample blog writing page
+![Writing page image](image/write.png)
 
 ## License
 
