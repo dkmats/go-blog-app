@@ -8,7 +8,7 @@ $ cd ./blog-app-sample
 $ go mod tidy
 ```
 ## Execution
-When you execute this application, you need to execute a following command.
+To run this application, the following command need to be executed.
 ```bash
 $ go run .
 ```
