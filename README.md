@@ -27,6 +27,11 @@ $ go build .
 $ ./go-blog-app
 ```
 
+## Screenshots
+
+![Test Image 1](image/home.png)
+![Test Image 2](image/write.png)
+
 ## License
 
 [MIT](LICENSE)

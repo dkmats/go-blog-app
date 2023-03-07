@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ja">
+<html lang="en">
   <div class="container">
     {{ template "header" }}
   </div>
@@ -7,21 +7,21 @@
     <main class="container">
         <form action="/new/" method="post">
             <div class="mb-3 mt-3">
-                <input name="TitleInput" class="form-control form-control-lg" type="text" placeholder="タイトル" aria-label=".form-control-lg example">
+                <input name="TitleInput" class="form-control form-control-lg" type="text" placeholder="Title" aria-label=".form-control-lg example">
             </div>
-            <label class="h4">タグ</label>
+            <label class="h4">Tag</label>
             <select name="ArticleTag" class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
               <option>IT</option>
-              <option>旅行</option>
-              <option>本</option>
+              <option>Travel</option>
+              <option>Book</option>
             </select>
             <div class="form-group">
-                <label class="h4" for="exampleFormControlTextarea1">コンテンツ</label>
+                <label class="h4" for="exampleFormControlTextarea1">Contents</label>
                 <textarea name="BodyTextArea" class="form-control" rows="20"></textarea>
             </div>
             <div class="mb-3 mt-3">
-                <input class="btn btn-primary" type="submit" value="作成">
-                <input class="btn btn-light" type="reset" value="リセット">
+                <input class="btn btn-primary" type="submit" value="make">
+                <input class="btn btn-light" type="reset" value="reset">
             </div>
         </form>
         {{ template "footer" }}
