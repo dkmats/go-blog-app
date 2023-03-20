@@ -1,11 +1,13 @@
-# Simple blog site sample implemented with Golang
+<h1 align="center">Blog site web app sample implemented with Golang</h1>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/dkmats/go-blog-app.svg)](https://github.com/dkmats/go-blog-app)
-[![License](http://img.shields.io/badge/license-mit-blue.svg)](https://github.com/dkmats/go-blog-app/blob/main/LICENSE)
+<p align="center">
+  <a href="https://github.com/dkmats/go-blog-app"><img src="https://img.shields.io/github/last-commit/dkmats/go-blog-app.svg?style=plastic" alt="GitHub last commit" /></a>
+  <a href="https://github.com/dkmats/go-blog-app/blob/main/LICENSE"><img src="http://img.shields.io/badge/license-mit-blue.svg?style=plastic" alt="License" /></a>
+</p>
 
-This is a simple blog site sample.
+This is a simple blog site web application sample.
 
-## Installation
+## Install
 
 First, go to the directory where you want to place this repository, and then execute following commands.
 ```bash
@@ -39,4 +41,4 @@ $ ./go-blog-app
 
 ## License
 
-[MIT](LICENSE)
+MIT License - see [LICENSE](LICENSE) for full text
