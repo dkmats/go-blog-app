@@ -43,4 +43,4 @@ $ ./go-blog-app
 
 ## License
 
-MIT license. see [LICENSE](LICENSE).
+MIT license, see [LICENSE](LICENSE).
