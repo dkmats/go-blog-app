@@ -1,9 +1,11 @@
 <h1 align="center">Blog site web app sample implemented with Golang</h1>
 
-<p align="center">
-  <a href="https://github.com/dkmats/go-blog-app"><img src="https://img.shields.io/github/last-commit/dkmats/go-blog-app.svg?style=plastic" alt="GitHub last commit" /></a>
-  <a href="https://github.com/dkmats/go-blog-app/blob/main/LICENSE"><img src="http://img.shields.io/badge/license-mit-blue.svg?style=plastic" alt="License" /></a>
-</p>
+<div align="center">
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/dkmats/go-blog-app.svg?style=plastic)](https://github.com/dkmats/go-blog-app)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=plastic)](https://github.com/dkmats/go-blog-app/blob/main/LICENSE)
+
+</div>
 
 This is a simple blog site web application sample.
 
@@ -41,4 +43,4 @@ $ ./go-blog-app
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for full text
+MIT License. see [LICENSE](LICENSE).
